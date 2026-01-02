@@ -79,8 +79,12 @@ alt="Developer Coding"/>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-<!-- <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/><br>Bash</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br>GitHub</td> -->
+<td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/><br>Material UI</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/><br>
+  Oracle Cloud
+</td>
+
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/><br>Redis</td>
 </tr>
 </table>
