@@ -41,7 +41,7 @@ alt="Developer Coding"/>
 
 🔹 **Inventory Management System**  
 > GRN flow, batch handling & sales forecasting  
-**Tech:** Node.js, MongoDB, REST APIs
+**Tech:** Node.js, MongoDB, REST APIs, PostgreSQL
 
 🔹 **Furniture Selling Platform**  
 > Admin-controlled products with customer meetings  
