@@ -10,7 +10,7 @@ Focused on real-world impact, clean design, and performance-driven development.
 </p>
 
 ---
-<img align="right" width="360" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding"/>
+<img align="right" width="360" height="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding"/> 
 ### 🚀 About Me
 
 - 👨‍💻 **App Developer, AI Engineer & Backend Developer**
