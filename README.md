@@ -10,8 +10,9 @@ Focused on real-world impact, clean design, and performance-driven development.
 </p>
 
 ---
-<img align="right" width="360" height="280" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyYmZ5czVmNWxoNTNraDd4c3h5YXhnc3h5Zm04MDA4aGU1ZmVjNDZweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Developer Coding"/> 
-### 🚀 About Me
+<img align="right" width="360" height="280" src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Developer Coding"/> 
+
+ ### 🚀 About Me
 
 - 👨‍💻 **App Developer, AI Engineer & Backend Developer**
 - 🏢 Working with **Skill Hive Innovations**
