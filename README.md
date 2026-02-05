@@ -142,6 +142,17 @@ Focused on real-world impact, clean design, and performance-driven development.
 </p>
 
 ---
+### ☕ Support My Work
+<p align="center">
+  <a href="https://buymeacoffee.com/tonyaj">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <!-- <a href="https://ko-fi.com/rajaguru2004">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+  </a> -->
+</p>
+
+---
 
 
 <p align="center">
